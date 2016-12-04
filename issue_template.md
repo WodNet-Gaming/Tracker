@@ -9,3 +9,4 @@ Steps to reproduce the problem:
 4.
 
 Links to Wowhead, YouTube, etc:
+dont forget add LABEL for all issue
