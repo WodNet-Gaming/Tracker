@@ -1,7 +1,7 @@
 Describe the issue you're having:
-
+1.
 Explain how you expect it work:
-
+1.
 Steps to reproduce the problem:
 1.
 2.
@@ -9,4 +9,6 @@ Steps to reproduce the problem:
 4.
 
 Links to Wowhead, YouTube, etc:
-dont forget add LABEL for all issue
+-
+
+Don't forget to add LABEL for all issue
